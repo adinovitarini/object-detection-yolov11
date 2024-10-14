@@ -10,6 +10,6 @@ The dataset contains of 126 images, meanwhile the class are 5, namely as:
   <li>Rolled</li>
   <li>Scratching</li>
 </ul>
-## EDA Dataset 
-## Detection
-## Results 
+<h1>EDA Dataset</h1>
+# Detection
+# Results 
