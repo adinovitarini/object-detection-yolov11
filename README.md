@@ -11,5 +11,5 @@ The dataset contains of 126 images, meanwhile the class are 5, namely as:
   <li>Scratching</li>
 </ul>
 <h1>EDA Dataset</h1>
-# Detection
-# Results 
+<h1>Detection</h1>
+<h1>Results</h1>
