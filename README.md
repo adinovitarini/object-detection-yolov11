@@ -13,3 +13,6 @@ The dataset contains of 126 images, meanwhile the class are 5, namely as:
 <h1>EDA Dataset</h1>
 <h1>Detection</h1>
 <h1>Results</h1>
+<img src="[confusion_matrix_normalized.png](https://github.com/adinovitarini/object-detection-yolov11/blob/main/confusion_matrix_normalized.png)" alt="Description of the image" width="500" height="auto">
+    
+    <p>This is an example of how to display an image using HTML.</p>
