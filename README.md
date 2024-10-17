@@ -14,4 +14,4 @@ The dataset contains of 126 images, meanwhile the class are 5, namely as:
 <h1>Detection</h1>
 <h1>Results</h1>
 <p>The confusion matrix </p>
-<img src="confusion_matrix_normalized.png" alt="Description of the image" width="500" height="auto">
+<img src="confusion_matrix_normalized.png" alt="Description of the image" width="600" height="auto">
