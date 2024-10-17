@@ -11,6 +11,7 @@ The dataset contains of 126 images, meanwhile the class are 5, namely as:
   <li>Scratching</li>
 </ul>
 <h1>Detection</h1>
+<img src="val_batch0_labels.jpg" alt="Description of the image" width="800" height="auto">
 <h1>Results</h1>
 <p>The confusion matrix </p>
 <img src="confusion_matrix_normalized.png" alt="Description of the image" width="800" height="auto">
