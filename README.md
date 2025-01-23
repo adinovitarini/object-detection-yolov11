@@ -10,6 +10,7 @@ The dataset contains of 126 images, meanwhile the class are 5, namely as:
   <li>Rolled</li>
   <li>Scratching</li>
 </ul>
+<h1>YOLOv11 as Object Detection Method</h1>
 <h1>Detection</h1>
 <img src="val_batch0_labels.jpg" alt="Description of the image" width="800" height="auto">
 <h1>Results</h1>
